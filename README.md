@@ -20,7 +20,7 @@ You can clone this project and install the dependencies with the following comma
 
 ```sh
 git https://github.com/EduVieira131/NLW-IA.git
-cd NLW-IA-API
+cd NLW-IA-api
 npm install
 npm run dev
 ```
