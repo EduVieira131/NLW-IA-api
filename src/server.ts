@@ -1,4 +1,4 @@
-import fastify from 'fastify'
+import { fastify } from 'fastify'
 import { fastifyCors } from '@fastify/cors'
 import { getAllPromptsRoute } from './routes/get-all-prompts'
 import { uploadVideoRoute } from './routes/upload-video'
