@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "tsc --project tsconfig.json",
-    "start": "ts-node ./src/server.ts",
+    "start": "tsx ./src/server.ts",
     "dev": "tsx watch src/server.ts"
   },
   "keywords": [],
